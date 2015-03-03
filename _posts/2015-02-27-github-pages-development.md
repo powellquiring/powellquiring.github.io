@@ -1,7 +1,7 @@
 ---
 layout: post
-title: blog development
-excerpt: Edit and view your site instantly by generating it locally using docker.
+title: github pages development
+excerpt: Edit and view your site instantly by generating it locally using this docker image.
 ---
 {{ page.excerpt }}
 
@@ -29,3 +29,5 @@ $ jekyll
 
 The jekyll server listens to the file system changes (.i.e your edits) and regenerates the _site the instant you write the file from the editor.
 Edit and browse.
+
+To learn how to [create a docker image](/2015/03/02/create-a-docker-image/)
