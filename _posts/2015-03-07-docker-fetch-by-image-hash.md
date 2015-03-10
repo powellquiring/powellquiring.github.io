@@ -5,7 +5,7 @@ excerpt: The latest docker registry api spec supports the retrieval of image tag
 ---
 {{ page.excerpt }}
 
-See [tarsum spec](https://github.com/openshift/origin/blob/master/Godeps/_workspace/src/github.com/docker/docker/pkg/tarsum/tarsum_spec.md)
+See [tarsum spec](https://github.com/docker/docker/blob/master/pkg/tarsum/tarsum_spec.md)
 See [Docker Registry HTTP API V2](https://github.com/docker/distribution/blob/master/doc/spec/api.md)
 
 # tarsum
