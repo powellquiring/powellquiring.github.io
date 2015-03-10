@@ -11,3 +11,5 @@ Mine was done using [Hyde](http://hyde.getpoole.com/) a brazen two-column Jekyll
 - went through all of the files in the root and adjusted them to be about my site
 - removed the existing _posts and added my content following the same file format
 - adjusted the index.html file to be to my liking
+- public/favicon.ico - adjust to one that you like
+- etc, etc, etc
