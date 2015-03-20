@@ -2,6 +2,8 @@
 layout: post
 title: YOU.github.io is not displaying bh-pages
 excerpt: Having problems with your github pages?
+tag:
+ - site
 ---
 {{ page.excerpt }}
 The content in the `gh-pages` branch are not being processed and displayed on my site.

@@ -2,6 +2,8 @@
 layout: post
 title: docker registry v2 unique id
 excerpt: The docker registry v2 does not support the query of the unique image id
+tag:
+ - docker
 ---
 Consider the following use case: A docker deployment environment reads the registry to come up with inventory.
 A "version object" in the inventory system is created for each tag and it is made unique with the digest.

@@ -2,6 +2,8 @@
 layout: post
 title: fetch image tags and hashes
 excerpt: The latest docker registry api spec supports the retrieval of image tags and image hashes.
+tag:
+ - docker
 ---
 {{ page.excerpt }}
 

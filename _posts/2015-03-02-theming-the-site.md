@@ -2,6 +2,8 @@
 layout: post
 title: theming the site
 excerpt: Choose a theme for your site.
+tag:
+ - site
 ---
 {{ page.excerpt }}
 

@@ -2,6 +2,9 @@
 layout: post
 title: github pages development
 excerpt: Edit and view your site instantly by generating it locally using this docker image.
+tag:
+ - site
+ - docker
 ---
 {{ page.excerpt }}
 

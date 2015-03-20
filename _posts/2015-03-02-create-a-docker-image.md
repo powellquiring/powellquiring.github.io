@@ -2,6 +2,8 @@
 layout: post
 title: create a docker image
 excerpt: Create a docker image from a docker file directory on github.
+tag:
+ - docker
 ---
 {{ page.excerpt }}
 
