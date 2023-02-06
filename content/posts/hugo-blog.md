@@ -5,4 +5,4 @@ draft: false
 ---
 
 ## Hugo
-[Hugo](https://gohugo.io/) is used for building this site
+V4 [Hugo](https://gohugo.io/) is used for building this site
