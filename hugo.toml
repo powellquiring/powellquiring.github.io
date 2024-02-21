@@ -1,0 +1,4 @@
+baseURL = 'https://powellquiring.com/'
+languageCode = 'en-us'
+title = 'Powell New Hugo Site'
+theme = 'ananke'
